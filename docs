@@ -1,0 +1,6 @@
+- Do git init inside the root directory
+- Add all the files using git add -A with a commit message
+- git remote add origin [repo]
+- git push origin master/whatever branch
+- heroku create [appname] --buildpack heroku/nodejs
+- git push heroku master
